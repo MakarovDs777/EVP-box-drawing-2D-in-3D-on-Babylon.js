@@ -8,4 +8,4 @@
 
 [EVP box drawing 2D in 3D (Version 3 - Floatland) | Babylon.js Playground](https://playground.babylonjs.com/#GKFTRR)
 
-[EVP box drawing 2D in 3D (Version 4 - Floatland smooth version)](https://playground.babylonjs.com/#OGC2LW)
+[EVP box drawing 2D in 3D (Version 4 - Floatland smooth version) | Babylon.js Playground](https://playground.babylonjs.com/#OGC2LW)
