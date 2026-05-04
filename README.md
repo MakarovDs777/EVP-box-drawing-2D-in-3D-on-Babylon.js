@@ -6,6 +6,6 @@
 
 [EVP box drawing 2D in 3D (Version 2 - Drawing on the activation plane along the trajectory of the ball) | Babylon.js Playground](https://playground.babylonjs.com/#I3LGZM)
 
-[Цитата](https://itexts.net/avtor-mitio-kaku/192553-giperprostranstvo-mitio-kaku/read/page-7.html). Во Флатландии мистер Квадрат встречает лорда Сферу. Проходя через Флотландию, лорд Сфера выглядет как окружность, которая сначала увеличивается в размерах, а затем уменьшается. Таким образом, Флатландцы не в состоянии представить себе трехмерные существа, но могут понять, каковы они в поперечнем сечении. 
-
 [EVP box drawing 2D in 3D (Version 3 - Floatland) | Babylon.js Playground](https://playground.babylonjs.com/#GKFTRR)
+
+[EVP box drawing 2D in 3D (Version 4 - Floatland smooth version)](https://playground.babylonjs.com/#OGC2LW)
