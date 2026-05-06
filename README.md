@@ -18,4 +18,6 @@
 
 [EVP box drawing 2D in 3D (Version 8 - Floatland smooth multiply figures gismos OBJ version) | Babylon.js Playground](https://playground.babylonjs.com/#XUDTKM#1)
 
-[Цитата](https://itexts.net/avtor-mitio-kaku/192553-giperprostranstvo-mitio-kaku/read/page-7.html). Во Флатландии мистер Квадрат встречает лорда Сферу. Проходя через Флотландию, лорд Сфера выглядет как окружность, которая сначала увеличивается в размерах, а затем уменьшается. Таким образом, Флатландцы не в состоянии представить себе трехмерные существа, но могут понять, каковы они в поперечнем сечении. 
+[EVP box drawing 2D in 3D (Version 9 - Floatland smooth multiply figures gismos OBJ version not random rotation) | Babylon.js Playground](https://playground.babylonjs.com/#K3HLFK)
+
+Нашел [цитату](https://itexts.net/avtor-mitio-kaku/192553-giperprostranstvo-mitio-kaku/read/page-7.html). Во Флатландии мистер Квадрат встречает лорда Сферу. Проходя через Флотландию, лорд Сфера выглядет как окружность, которая сначала увеличивается в размерах, а затем уменьшается. Таким образом, Флатландцы не в состоянии представить себе трехмерные существа, но могут понять, каковы они в поперечнем сечении. 
