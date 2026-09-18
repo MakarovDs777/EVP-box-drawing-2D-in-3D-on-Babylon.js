@@ -27,3 +27,5 @@
 [EVP box drawing 2D in 3D (Version 10 - Floatland but One image LZW but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#9SN13B)
 
 [EVP box drawing 2D in 3D (Version 11 - Floatland but More images LZW but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#I1UOG5)
+
+[EVP box drawing 2D in 3D (Version 12 - Floatland but More images LZW but no space just dict gizmos) | Babylon.js Playground](https://playground.babylonjs.com/#X93WRV)
